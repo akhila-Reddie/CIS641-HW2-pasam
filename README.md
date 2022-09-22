@@ -1,2 +1,4 @@
 # Akhila Pasam
-## Basically i am electronics and communication engineering graduate so i want to enhance my interest in developing 
+## Basically i am an electronics and communication engineering graduate,where i have little bit knowledge in the coding part.
+I want to enhance my programming skills with various frontend and backend technologies.
+I am personally interested to develop a mobile application in my Masters with different features.
