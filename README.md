@@ -11,5 +11,5 @@ As i am electronics student i am familiar with digital design.
 
 ![This is my favorite meme](https://www.liveabout.com/thmb/hscG6lGOZeu4SFqvOqtE0C_2XZs=/837x640/filters:no_upscale():max_bytes(150000):strip_icc()/BFF27-5ac2f4b38023b9003671cb46.jpg)
 
-##PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 Our project is basically a shopping website in which customers can shop varieties of products.The customers should first login in to website and search for the product based on their interest and then the selected products are added to the cart for which order is placed.We also provide wishlist option.
